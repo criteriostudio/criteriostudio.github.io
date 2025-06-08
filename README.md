@@ -43,7 +43,7 @@ CloudLab/
 
 ## 🚀 Enlaces Rápidos
 
-- [📋 Requisitos del Sistema](docs/Requisitos-del-Sistema.md)
+- [📋 Requisitos del Sistema](./docs/Requisitos-del-Sistema.md)
 - [🏗️ Arquitectura Técnica](docs/Arquitectura-Tecnica.md)
 - [📅 Fases del Proyecto](docs/Fases-del-Proyecto.md)
 - [✅ Criterios de Éxito](docs/Criterios-de-Exito.md)

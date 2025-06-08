@@ -43,12 +43,12 @@ CloudLab/
 
 ## 🚀 Enlaces Rápidos
 
-- [📋 Requisitos del Sistema](./docs/Requisitos-del-Sistema.md)
-- [🏗️ Arquitectura Técnica](docs/Arquitectura-Tecnica.md)
-- [📅 Fases del Proyecto](docs/Fases-del-Proyecto.md)
-- [✅ Criterios de Éxito](docs/Criterios-de-Exito.md)
-- [⚙️ Guía de Configuración](docs/Guia-de-Configuracion.md)
-- [👤 Manual de Usuario](docs/Manual-de-Usuario.md)
+- [📋 Requisitos del Sistema](docs/Requisitos-del-Sistema)
+- [🏗️ Arquitectura Técnica](docs/Arquitectura-Tecnica)
+- [📅 Fases del Proyecto](docs/Fases-del-Proyecto)
+- [✅ Criterios de Éxito](docs/Criterios-de-Exito)
+- [⚙️ Guía de Configuración](docs/Guia-de-Configuracion)
+- [👤 Manual de Usuario](docs/Manual-de-Usuario)
 
 ## 👥 Equipo de Desarrollo
 

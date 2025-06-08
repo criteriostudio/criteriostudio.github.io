@@ -43,9 +43,9 @@ CloudLab/
 
 ## 🚀 Enlaces Rápidos
 
-- [📋 Requisitos del Sistema](docs/Requisitos-del-Sistema)
+- [📋 Requisitos del Sistema](https://criteriostudio.github.io/docs/Requisitos-Del-Sistema)
 - [🏗️ Arquitectura Técnica](docs/Arquitectura-Tecnica)
-- [📅 Fases del Proyecto](docs/Fases-del-Proyecto)
+- [📅 Fases del Proyecto](https://criteriostudio.github.io/docs/Fases-del-Proyecto)
 - [✅ Criterios de Éxito](docs/Criterios-de-Exito)
 - [⚙️ Guía de Configuración](docs/Guia-de-Configuracion)
 - [👤 Manual de Usuario](docs/Manual-de-Usuario)

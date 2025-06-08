@@ -43,12 +43,12 @@ CloudLab/
 
 ## 🚀 Enlaces Rápidos
 
-- [📋 Requisitos del Sistema](www.criteriostudio.github.io/docs/Requisitos-del-Sistema.md)
-- [🏗️ Arquitectura Técnica](www.criteriostudio.github.io/docs/Arquitectura-Tecnica.md)
-- [📅 Fases del Proyecto](www.criteriostudio.github.io/docs/Fases-del-Proyecto.md)
-- [✅ Criterios de Éxito](www.criteriostudio.github.io/docs/Criterios-de-Exito.md)
-- [⚙️ Guía de Configuración](www.criteriostudio.github.io/docs/Guia-de-Configuracion.md)
-- [👤 Manual de Usuario](www.criteriostudio.github.io/docs/Manual-de-Usuario.md)
+- [📋 Requisitos del Sistema](docs/Requisitos-del-Sistema.md)
+- [🏗️ Arquitectura Técnica](docs/Arquitectura-Tecnica.md)
+- [📅 Fases del Proyecto](docs/Fases-del-Proyecto.md)
+- [✅ Criterios de Éxito](docs/Criterios-de-Exito.md)
+- [⚙️ Guía de Configuración](docs/Guia-de-Configuracion.md)
+- [👤 Manual de Usuario](docs/Manual-de-Usuario.md)
 
 ## 👥 Equipo de Desarrollo
 
